@@ -14,6 +14,17 @@ This is the frontend source code for **Tungareshwar**, a website created for a l
 - CSS3
 - JavaScript
 
+## 📸 Screenshots
+
+!(assets/screenshots/Screenshot (1).png)
+(assets/screenshots/Screenshot (2).png)
+(assets/screenshots/Screenshot (3).png)
+(assets/screenshots/Screenshot (4).png)
+(assets/screenshots/Screenshot (5).png)
+(assets/screenshots/Screenshot (6).png)
+(assets/screenshots/Screenshot (7).png)
+(assets/screenshots/Screenshot (8).png)
+
 ## 📌 Features
 
 - Responsive design for mobile and desktop
