@@ -19,4 +19,5 @@ This is the frontend source code for **Tungareshwar**, a website created for a l
 - Responsive design for mobile and desktop
 - Clean and modern UI
 - Sweets catalog with images
+- 30% Disocunt auto apply on order with more than 10 items
 - About Us and Contact sections
