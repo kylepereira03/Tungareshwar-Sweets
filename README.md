@@ -16,14 +16,18 @@ This is the frontend source code for **Tungareshwar**, a website created for a l
 
 ## 📸 Screenshots
 
-![](assets/images/Screenshots/Screenshot(1).png)
-![](assets/images/Screenshots/Screenshot(2).png)
-![](assets/images/Screenshots/Screenshot(3).png)
-![](assets/images/Screenshots/Screenshot(4).png)
-![](assets/images/Screenshots/Screenshot(5).png)
-![](assets/images/Screenshots/Screenshot(6).png)
-![](assets/images/Screenshots/Screenshot(7).png)
-![](assets/images/Screenshots/Screenshot(8).png)
+<div style="display: flex; overflow-x: auto;">
+
+  ![](assets/images/Screenshots/Screenshot(1).png)
+  ![](assets/images/Screenshots/Screenshot(2).png)
+  ![](assets/images/Screenshots/Screenshot(3).png)
+  ![](assets/images/Screenshots/Screenshot(4).png)
+  ![](assets/images/Screenshots/Screenshot(5).png)
+  ![](assets/images/Screenshots/Screenshot(6).png)
+  ![](assets/images/Screenshots/Screenshot(7).png)
+  ![](assets/images/Screenshots/Screenshot(8).png)
+
+</div>
 
 ## 📌 Features
 
