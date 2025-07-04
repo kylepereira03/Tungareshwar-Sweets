@@ -1,0 +1,6 @@
+# Node modules directory
+# This directory contains all the npm packages installed for the project
+node_modules/
+
+# Dot Environment files
+.env
